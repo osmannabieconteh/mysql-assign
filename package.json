@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/osmannabieconteh/mysql-assign#readme",
   "dependencies": {
-    "enquire": "0.0.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
     "mysql": "^2.17.1"
   }
 }
